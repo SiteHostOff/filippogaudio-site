@@ -22,7 +22,7 @@
 }
 
 ::-webkit-scrollbar-thumb:hover {
-    background: #4070f4;
+    background: #21296b;
 }
 /* navbar styling */
 nav{
@@ -34,7 +34,7 @@ nav{
   font-family: 'Ubuntu', sans-serif;
 }
 nav.sticky{
-  background: #4070f4;
+  background: #21296b;
   padding: 13px 0;
 }
 nav .navbar{
